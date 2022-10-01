@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.zom-background{
+	height: 460px;
+	width: 100%;
+	background-image: url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	
+	
+}
+.nav-link{
+	text-transform: uppercase;
+	margin-left: 20px;
+	
+	font-size: 18px;
+	
+
+
+}
+.menuuuu{
+	background: transparent;
+	z-index: 99999;
+	position: fixed;
+	top: 0px;
+}
+.list{
+	margin-left: 20px;
+}
+.input{
+	width: 55%;
+	height: 45px;
+	text-align: center;
+	border-radius: 10px;
+	font-family: arial;
+	word-spacing: 2px;
+	margin-top: 20px;
+}
+.zom-pune{
+	font-family: arial;
+}
+.card-body{
+	border-radius: 10px;
+	box-shadow: ;
+}
+.card-body p{
+	font-size: 19px;
+}
+
+.coll1{
+	font-size: 25px;
+	font-family: arial;
+	color: black;
+}
